@@ -11,12 +11,12 @@
 
 .navbar .brand {
   padding: 0px;
-
+  border-radius: 0px;
 }
 
 #logo{
-   /*margin-left: 30%;*/
    width: auto;
+    border-radius: 0px;
 }
 
 #logo:hover {
@@ -28,6 +28,7 @@
   background-color: #5d5e60;
   color: #0f0f0f;
   border: 1px solid #b7b7af;
+  border-radius: 0px;
 }
 
 body {
