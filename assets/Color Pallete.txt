@@ -1,0 +1,19 @@
+Color Pallete
+
+{Colors Light to Dark}
+
+#b7b7af;
+
+#848388;
+
+#5d5e60;
+
+#373737;
+
+#0f0f0f;
+
+Fonts
+
+font-family: 'Oswald', sans-serif;
+
+font-family: 'Open Sans', sans-serif;
