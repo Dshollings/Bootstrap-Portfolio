@@ -1,0 +1,146 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+  border-radius: 6px;
+}
+
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+  background-color: #0f0f0f;
+}
+
+.navbar .brand {
+  padding: 0px;
+
+}
+
+#logo{
+   /*margin-left: 30%;*/
+   width: auto;
+}
+
+#logo:hover {
+  background-color: #5d5e60;
+  border: 1px solid #b7b7af;
+}
+
+.current {
+  background-color: #5d5e60;
+  color: #0f0f0f;
+  border: 1px solid #b7b7af;
+}
+
+body {
+  background-color:#848388;
+}
+
+.pos-top {
+  margin-top: 65px;
+}
+
+.section {
+  background-color: #5d5e60;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.prompt {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+
+.form-control {
+  color: #373737;
+  background-color: #b7b7af;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+li {
+  list-style: none;
+}
+
+li a img {
+  z-index: 0;
+  width: 100%;
+}
+
+li a img:hover{
+  border-radius: 50%;
+}
+
+.port-label {
+  height: 30px;
+  width: 92%;
+  background-color: #0f0f0f;;
+  z-index: 1000;
+  margin-top: -65px;
+  position: absolute;
+}
+
+.port-label h3 {
+  text-align: center;
+  color: #b7b7af;
+  margin-top: 0px;
+  z-index: 1001;
+}
+
+.sidebar {
+  padding: 20px;
+  height: 100%;
+  background-color: #5d5e60;
+  margin: 0px;
+}
+
+.bt-group {
+  padding-bottom: 20px;
+  background-color: #373737;
+  margin-bottom: 20px;
+}
+
+.btn {
+  box-shadow: 2px 2px 3px #373737;
+}
+
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+}
+
+i {
+  color: black;
+}
+        
+footer {
+  /*position: fixed;*/
+  bottom: 0px;
+  background-color: #0f0f0f;
+  height: 50px;
+  width: 100%;
+  border-radius: 0px;
+}
+
+footer p {
+  color: #848388;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  vertical-align: center;
+  clear: both;
+}
+    
+@media screen and (max-width: 767px) {
+  .sidebar {
+  height: auto;
+  padding: 15px;
+}
+    
