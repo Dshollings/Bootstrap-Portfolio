@@ -104,10 +104,15 @@ li a img:hover{
   padding-bottom: 20px;
   background-color: #373737;
   margin-bottom: 20px;
+  box-shadow: 2px 2px 3px #b7b7af;
 }
 
 .btn {
   box-shadow: 2px 2px 3px #373737;
+}
+
+.btn:hover {
+  box-shadow: 3px 3px 4px #0f0f0f;
 }
 
 
